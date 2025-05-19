@@ -1,21 +1,21 @@
-<p align="center"><a href="https://github.com/Silenthrax/SILENTHREX/blob/main/SILENTHRAX/assets/cookies.txt"> <img src="https://img.shields.io/badge/Add%20Your%20Cookies-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/Silenthrax/SILENTHRAX/blob/main/SILENTHRAX/assets/cookies.txt"> <img src="https://img.shields.io/badge/Add%20Your%20Cookies-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
   
   <h2 align="center">
     ── 𝗟𝗶𝘀𝗮 𝗠𝘂𝘀𝗶𝗰 ♪ 
 <p align="center">
-  <img src="https://files.catbox.moe/ohlous.jpg">
+  <img src="https://files.catbox.moe/8f3oe7.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Silenthrax/SILENTHREX"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Silenthrax/SILENTHRAX"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- ɢᴇᴛ ʏᴏᴜʀ [Necessary Variables](https://github.com/Silenthrax/SILENTHREX/blob/main/sample.env)
+- ɢᴇᴛ ʏᴏᴜʀ [Necessary Variables](https://github.com/Silenthrax/SILENTHRAX/blob/main/sample.env)
 - ᴜᴘɢʀᴀᴅᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙʏ :
 ```sudo apt-get update && sudo apt-get upgrade -y```
 - ɪɴsᴛᴀʟʟ ғғᴍᴘᴇɢ ʙʏ :
@@ -26,9 +26,9 @@
 ```sudo pip3 install -U pip```
 - ɪɴsᴛᴀʟʟ ɴᴏᴅᴇ ᴊs ʙʏ :
 ```curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm```
-- ᴀᴅᴅ ʏᴏᴜʀ ᴄᴏᴏᴋɪᴇs ᴛᴏ [cookies/cookies.txt](https://github.com/Silenthrax/SILENTHEX/blob/main/Silenthrax/assets/cookies.txt)
+- ᴀᴅᴅ ʏᴏᴜʀ ᴄᴏᴏᴋɪᴇs ᴛᴏ [cookies/cookies.txt](https://github.com/Silenthrax/SILENTHRAX/blob/main/SILENTHRAX/assets/cookies.txt)
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-```git clone https://github.com/Silenthrax/SILENTHREX && cd SILENTHREX```
+```git clone https://github.com/Silenthrax/SILENTHRAX && cd SILENTHRAX```
 - ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ʙʏ :
 ```pip3 install -U -r requirements.txt```
 - ғɪʟʟ ʏᴏᴜʀ ᴠᴀʀɪᴀʙʟᴇs ɪɴ ᴛʜᴇ ᴇɴᴠ ʙʏ :
@@ -56,5 +56,5 @@
 <a href="https://t.me/Silenthrex"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ SILENTHREX](https://t.me/Silenthrex) ғᴏʀ [SILENTHREX](https://github.com/Silenthrax/SILENTHREX)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ 𝐒ɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrex) ғᴏʀ [𝐒ɪʟᴇɴᴛʜʀᴀx ʙᴏᴛ](https://github.com/Silenthrax/SILENTHRAX)_ </b>
 
