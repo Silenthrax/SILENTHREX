@@ -1,4 +1,4 @@
-from SONALI.utils.mongo import filtersdb
+from SILENTHRAX.utils.mongo import filtersdb
 
 filters = filtersdb
 
