@@ -1,4 +1,4 @@
-from SONALI.utils.mongo import notesdb
+from SILENTHRAX.utils.mongo import notesdb
 
 notes = notesdb
 
